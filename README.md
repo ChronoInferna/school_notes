@@ -1,3 +1,1 @@
-Notes from my time in college
-
-I've basically thrown everything I've written in LaTex in here, correct or incorrect, finished or unfinished, so feel free to dig around I guess
+These are my LaTeX notes from my time in college. I've basically thrown everything I've written in LaTeX in here, whether it's correct, incorrect, finished or unfinished, so feel free to dig around I guess.
